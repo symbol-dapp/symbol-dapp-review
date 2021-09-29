@@ -1,11 +1,12 @@
 {
-  "name": "symbol-dapp-review",
+  "name": "@symbol-dapp/review",
   "version": "0.0.1",
   "description": "Symbol Dapp Review Library",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -25,10 +26,11 @@
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "jest": "^27.2.3",
+    "symbol-sdk": "^1.0.1",
     "ts-jest": "^27.0.5",
     "typescript": "^4.4.3"
   },
   "dependencies": {
-    "@symbol-dapp/core": "^0.1.2"
+    "@symbol-dapp/core": "^0.3.0"
   }
 }

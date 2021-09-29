@@ -506,14 +506,14 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@symbol-dapp/core@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@symbol-dapp/core/-/core-0.1.2.tgz#86802926fd4188d9ec6970ad086bf477234f7755"
-  integrity sha512-n4hpY2zTyGKFhBIKH2X/KCZLtcuVecAA8D1qd4JOGXBdIiUIaVas1KwFmduViRSPjhhI8b9M02xFJ+f0+LQBAQ==
+"@symbol-dapp/core@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@symbol-dapp/core/-/core-0.3.0.tgz#cd2084c1df9ba5f9992f4247698488552918d3eb"
+  integrity sha512-Jw0IZ1ki1yGbaYPS6RDDrFS0CCYmpI+0xFNI7qBRA7m7ecxgb91iA7hQ+fMGkfOPUUDZtMq4YQRSZhE4OwZCqw==
   dependencies:
     js-sha3 "https://github.com/Propine/js-sha3.git"
     pouchdb "^7.2.2"
-    symbol-sdk "^1.0.0"
+    symbol-sdk "^1.0.1"
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -2926,7 +2926,7 @@ symbol-openapi-typescript-fetch-client@0.11.2:
   resolved "https://registry.yarnpkg.com/symbol-openapi-typescript-fetch-client/-/symbol-openapi-typescript-fetch-client-0.11.2.tgz#c34b1a2345b567645b802b79b6e8431281a4c938"
   integrity sha512-A1MAN8/UWlaCEibBf6zxkduZwDNSvWwLPp6JB0GeYI/FAOrw/9nLyuS/NJQ3siGAUclnuejH1wG7KdUg0/4RSw==
 
-symbol-sdk@^1.0.0:
+symbol-sdk@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/symbol-sdk/-/symbol-sdk-1.0.1.tgz#d401bad7deccdb4a9ea225bb30847fbffd31e698"
   integrity sha512-G4sdGBfggTSqKs9XchMQAtOfl80Z2eARafxZnzje5qxzfUSQUCFYdBP7IJiA2PDoeyfXJJpzWWTlgq9EzvKm1A==
